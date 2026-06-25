@@ -5,7 +5,7 @@ Automatically scores bounty submissions for quality, completeness, and effort. B
 
 ## Live Demo
 
-https://published-project-list--franklin52448.replit.app/
+https://owockibot-scorer.onrender.com
 
 ## What It Does
 
